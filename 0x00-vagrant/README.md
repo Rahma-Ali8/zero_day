@@ -1,1 +1,1 @@
-#hello in my new repo
+It prints the core operating system name
